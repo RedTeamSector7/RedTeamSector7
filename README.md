@@ -68,6 +68,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP3YT6TOw5k6Ba/giphy.gif" width="300" />
+  <img src="https://i.gifer.com/7Lx5.gif" width="300" />
   <br><i>“We are the storm the blue team fears.”</i>
 </p>

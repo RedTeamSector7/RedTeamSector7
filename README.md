@@ -45,7 +45,7 @@
 💻 Languages: Python, PowerShell, C++
 🎯 Focus: Red Teaming, EDR Bypass, C2
 🔐 Obsessed with: Stealth, Persistence, Exfiltration
-🧪 Love: Malware Simulation, Debugging, Reverse Engineering
+🧪 Love: Malware Simulation, Debugging, Penetration Testing
 ```
 
 ---

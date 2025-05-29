@@ -67,3 +67,7 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.gifer.com/7Lx5.gif](https://i.pinimg.com/736x/47/15/d6/4715d6c2b52e8ae62455fefc2f88ce65.jpg" width="300" />
+  <br><i>“We are the storm the blue team fears.”</i>
+</p>

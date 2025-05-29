@@ -1,4 +1,4 @@
-<h1 align="center">💀 RedTeamSector7</h1>
+<h1 align="center">RedTeamSector7</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=Offensive+Security+Researcher;Advanced+Persistence+Techniques;Red+Team+Operator;Custom+C2+Builder" />
